@@ -6,9 +6,10 @@ Este programa tem com objetivo de Funcionar como um DBMS, o mesmo foi feito em C
 Para gerar o executável utilize o seguinte comando no diretório do mesmo:
 
 > $ gcc sgbdfunc.c sgbd.h main.c -o a
-> $ ./a
 
 ## Uso
+
+> $ ./a
 
 Para utilizar o SGBD é necessário apenas saber a função que se deseja utilizar (visualização disponível no menu) mas dentre elas existe a função de criar tabela, pesquisar itens, visualizar tabelas entre outras...
 
